@@ -54,5 +54,5 @@
 
 <h2>Диаграмма вариантов использования</h2>
 <p>На диаграмме представлены различные варианты использования системы. Также обозначены границы системы</p>
-[Untitled-4.pdf](https://github.com/Burnysheff/Architect/files/13404573/Untitled-4.pdf)
+<a href="../first.pdf">link</a>
 
