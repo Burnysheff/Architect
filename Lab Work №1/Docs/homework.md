@@ -54,5 +54,5 @@
 
 <h2>Диаграмма вариантов использования</h2>
 <p>На диаграмме представлены различные варианты использования системы. Также обозначены границы системы</p>
-!["image"](https://github.com/Burnysheff/Architect/blob/LabWork1/Lab%20Work%20№1/Pictures/first-1.png)
 
+!["image"](../Pictures/first-1.png)
